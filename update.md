@@ -8,3 +8,4 @@ Download link for Samsung Launcher, please do not mirror or reupload the file
 ## [Version 1.0](https://www.pling.com/p/1955634/)
 - Initial ports base from OneUI 5.0 (Android 13)
 - Added dummy sfinder
+- Integrated my APIs
