@@ -6,7 +6,6 @@ for pid in $(pidof -s surfaceflinger) $(pidof -s system_server) $(pgrep -f com.a
   renice -n "-18" -p "$pid"
 done
 
-
 # Delaying for let the system boot
 sleep 15
 
