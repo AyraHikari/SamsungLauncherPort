@@ -3,8 +3,9 @@ Ported Samsung Launcher for any compatible ROMs
 
 ## Screenshot
 <p  align="center">
-<img src="./.github/home.jpg" height="400"/><img src="./.github/search.jpg" height="400"/><img  src="./.github/downloads.jpg" height="400"/><img src="./.github/results.jpg" height="400"/> 
-<img src="./.github/player.jpg" height="200"/></p>
+<img src="./screenshot/Screenshot_20221215-190508_One_UI_Home.png" height="400"/><img src="./screenshot/Screenshot_20221215-190511_One_UI_Home.png" height="400"/><img  src="./screenshot/Screenshot_20221215-190604_One_UI_Home.png" height="400"/></p>
+<p  align="center">
+<img src="./screenshot/Screenshot_20221215-190621_One_UI_Home.png" height="400"/><img src="./screenshot/Screenshot_20221215-190637_One_UI_Home.png" height="400"/><img  src="./screenshot/Screenshot_20221215-190732_One_UI_Home.png" height="400"/></p>
 
 ## Requirements
 - Android 13
