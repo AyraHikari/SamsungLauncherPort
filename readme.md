@@ -16,6 +16,9 @@ Todo
 - Open magisk manager, install from zip, select oneui launcher
 - Reboot
 
+## Known Bugs
+- Stack widget not work, remove screen layout if you creating one
+
 ## Bugs Report
 Todo
 
