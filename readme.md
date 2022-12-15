@@ -12,7 +12,7 @@ Ported Samsung Launcher for any compatible ROMs
 - Magisk installed
 
 ## Download
-- You can [download latest release here](https://www.pling.com/p/1541574)
+- You can [download latest release here](https://www.pling.com/p/1955634)
 
 ## Installation Guide
 - [Download launcher module](https://github.com/AyraHikari/SamsungLauncherPort/blob/main/update.md)
