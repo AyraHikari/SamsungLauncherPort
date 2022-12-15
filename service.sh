@@ -1,7 +1,7 @@
 #!/system/bin/sh
 
 # Increase system's smoothness and launcher's smoothness by increasing priority of some specified processes
-for pid in $(pidof -s surfaceflinger) $(pidof -s system_server) $(pgrep -f com.android.systemui) $(pgrep -f com.android.launcher3); do
+for pid in $(pidof -s surfaceflinger) $(pidof -s system_server) $(pgrep -f com.android.systemui) $(pgrep -f com.sec.android.app.launcher); do
   echo "-17" > "/proc/${pid}/oom_adj"
   renice -n "-18" -p "$pid"
 done
