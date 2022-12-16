@@ -34,3 +34,6 @@ appops set $PKG ACCESS_RESTRICTED_SETTINGS allow
 
 # Notification access fix
 cmd notification allow_listener com.sec.android.app.launcher/com.android.launcher3.notification.NotificationListener
+
+# Squircle icon shape
+cmd overlay enable me.ayra.theme.icon.squircle
