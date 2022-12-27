@@ -2,6 +2,7 @@
 Download link for Samsung Launcher, please do not mirror or reupload the file
 - [Samsung OneUI Launcher Build 1.3 (latest)](https://www.pling.com/p/1955634/)
 - [Installation Guide](https://github.com/AyraHikari/SamsungLauncherPort/blob/main/readme.md#installation-guide)
+- [Extra Plugins and Tweaks](https://github.com/AyraHikari/SamsungLauncherPort/blob/main/plugins.md)
 
 # Changelog
 
