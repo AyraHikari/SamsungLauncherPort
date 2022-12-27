@@ -1,9 +1,15 @@
 # Download
 Download link for Samsung Launcher, please do not mirror or reupload the file
-- [Samsung OneUI Launcher Build 1.2 (latest)](https://www.pling.com/p/1955634/)
+- [Samsung OneUI Launcher Build 1.3 (latest)](https://www.pling.com/p/1955634/)
 - [Installation Guide](https://github.com/AyraHikari/SamsungLauncherPort/blob/main/readme.md#installation-guide)
 
 # Changelog
+
+## [Version 1.3](https://www.pling.com/p/1955634/)
+- Fixed Finder crashing in some devices
+- Trying to fix on LOS based ROM (please test)
+- Adding compatible with my tweaks by Lsposed
+- Adding support third party custom icons
 
 ## [Version 1.2](https://www.pling.com/p/1955634/)
 - Added google discover (download Google first)
