@@ -6,6 +6,11 @@ Download link for Samsung Launcher, please do not mirror or reupload the file
 
 # Changelog
 
+## [Version 1.4](https://www.pling.com/p/1955634/)
+- Fixed some Recents error (Unmarshal)
+- Work mode is now working
+- Fixed crashing on some OEMs device
+
 ## [Version 1.3](https://www.pling.com/p/1955634/)
 - Fixed Finder crashing in some devices
 - Trying to fix on LOS based ROM (please test)
